@@ -1,5 +1,13 @@
 # Pyceptron
-Python library for implementing a multilayer feedforward perceptron for arbitrary inputs and outputs
+Python library for implementing a multilayer feedforward perceptron for arbitrary inputs and outputs. The following modules are currently in development:
+
+1. ReLU activation
+2. Weight Decay
+3. Momentum in SGD
+4. Dropout
+5. Softmax and cross-entropy loss
+6. Mini-batch training
+7. Batch normalisation
 
 ## Basic usage:
 
