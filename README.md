@@ -23,3 +23,6 @@ first argument is a list of layer dimensions (at least two values) second argume
 specify feature set, label set, learning rate and integer number of epochs
 
 `result = model.fit(data, label, learning_rate=0.01, epochs=500)`
+
+### generate predictions
+`model.predict(feature_data)`
