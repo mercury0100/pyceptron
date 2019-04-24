@@ -8,6 +8,7 @@ Python library for implementing a multilayer feedforward perceptron for arbitrar
 5. Softmax and cross-entropy loss
 6. Mini-batch training
 7. Batch normalisation
+8. Multiprocessing for mini-batch descent
 
 ## Basic usage:
 
