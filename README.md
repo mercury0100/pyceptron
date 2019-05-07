@@ -4,8 +4,8 @@ Python library for implementing a multilayer feedforward perceptron for arbitrar
 1. ~ReLU activation~
 2. ~Weight Decay~
 3. ~Momentum in SGD~
-4. Dropout
-5. Softmax and cross-entropy loss
+4. ~Dropout~
+5. ~Softmax and cross-entropy loss~
 6. ~Mini-batch training~
 7. Batch normalisation
 8. Multiprocessing for mini-batch descent
