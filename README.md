@@ -1,5 +1,5 @@
 # Pyceptron
-Object Oriented Python library for implementing a multilayer feedforward perceptron for arbitrary inputs and outputs. The following modules are currently in development:
+A lightweight multilayer feedforward perceptron for arbitrary inputs and outputs built in numpy. In development:
 
 1. ~ReLU activation~
 2. ~Weight Decay~
