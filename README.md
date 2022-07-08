@@ -1,4 +1,4 @@
-# Pyceptron
+# TinyNN
 A lightweight multilayer feedforward perceptron for arbitrary inputs and outputs built in numpy. In development:
 
 1. ~ReLU activation~
@@ -12,13 +12,13 @@ A lightweight multilayer feedforward perceptron for arbitrary inputs and outputs
 
 ## Basic usage:
 
-### import pyceptron
-`import pyceptron as pct`
+### import tinynn
+`import tinynn as tnn`
 
 ### create a model
 first argument is a list of layer dimensions (at least two values) second argument is corresponding nonlinearities.
 
-`model = pct.MLP([128,3,1], [None,'tanh','tanh'])`
+`model = tnn.MLP([128,3,1], [None,'tanh','tanh'])`
 
 ### train the model
 specify feature set, label set, learning rate and integer number of epochs
