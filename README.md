@@ -1,4 +1,4 @@
-# Pyceptron
+# pyceptron
 A lightweight multilayer feedforward perceptron for arbitrary inputs and outputs built in numpy. In development:
 
 1. ~ReLU activation~
